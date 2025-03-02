@@ -6,7 +6,7 @@
 
 # movue-ui
 
-移动端 UI 组件库。[在线示例](https://moshang-xc.github.io/movue-ui/)
+移动端 UI 组件库。[在线示例](https://moshang-ax.github.io/movue-ui/)
 
 
 ## 使用
